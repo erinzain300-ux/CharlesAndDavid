@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Project screenshot placeholder, dark theme</title>
+  <desc id="desc">Midnight-indigo artwork marking where a real project screenshot can be added.</desc>
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#292e43"/>
+      <stop offset="1" stop-color="#171b2b"/>
+    </linearGradient>
+    <radialGradient id="moonlight">
+      <stop stop-color="#d7a0ad" stop-opacity=".27"/>
+      <stop offset="1" stop-color="#d7a0ad" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#night)"/>
+  <circle cx="210" cy="104" r="235" fill="url(#moonlight)"/>
+  <circle cx="1044" cy="580" r="250" fill="url(#moonlight)"/>
+  <path d="M0 512c206-98 356-42 534 12s403 57 666-61v212H0z" fill="#d7a0ad" opacity=".1"/>
+  <rect x="130" y="105" width="940" height="465" rx="24" fill="#202437" fill-opacity=".84" stroke="#d7a0ad" stroke-opacity=".48" stroke-width="2"/>
+  <path d="M130 179h940" stroke="#d7a0ad" stroke-opacity=".34" stroke-width="2"/>
+  <circle cx="172" cy="143" r="8" fill="#d7a0ad" opacity=".8"/>
+  <circle cx="202" cy="143" r="8" fill="#d7a0ad" opacity=".48"/>
+  <circle cx="232" cy="143" r="8" fill="#d7a0ad" opacity=".26"/>
+  <g fill="#f0e5e3" text-anchor="middle" font-family="Georgia, 'Noto Serif JP', serif">
+    <text x="600" y="337" font-size="42" letter-spacing="8">PROJECT IMAGE</text>
+    <text x="600" y="390" font-size="25" fill="#e0bac3">Add your real project screenshot</text>
+    <text x="600" y="448" font-size="22" opacity=".8">作品の画像</text>
+  </g>
+  <path d="M553 490c17-14 31-14 48 0m0 0c17-14 31-14 48 0" fill="none" stroke="#d7a0ad" stroke-width="2" opacity=".8"/>
+</svg>

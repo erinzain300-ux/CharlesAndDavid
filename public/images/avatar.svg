@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" role="img" aria-labelledby="title desc">
+  <title id="title">Illustrated portrait placeholder</title>
+  <desc id="desc">A minimalist portrait silhouette against a soft sakura-colored circle.</desc>
+  <rect width="640" height="800" fill="#e9e4d9"/>
+  <circle cx="326" cy="338" r="228" fill="#d7b9b7"/>
+  <path d="M90 800c20-171 106-263 230-263s210 92 230 263" fill="#343a60"/>
+  <path d="M205 353c0-109 51-177 119-177 75 0 117 72 117 177v40c0 93-50 161-118 161-69 0-118-68-118-161z" fill="#e8bd9b"/>
+  <path d="M201 352c-7-111 47-195 127-195 82 0 128 68 126 173-20-44-48-78-91-93-35 43-91 69-162 74z" fill="#34302f"/>
+  <path d="M232 364c18-11 37-11 54 0m91 0c18-11 37-11 54 0" fill="none" stroke="#463632" stroke-linecap="round" stroke-width="8"/>
+  <path d="M319 379c-4 31-7 49-1 58 5 7 16 8 23 4" fill="none" stroke="#b77f70" stroke-linecap="round" stroke-width="6"/>
+  <path d="M293 464c18 15 45 15 63 0" fill="none" stroke="#9f5f60" stroke-linecap="round" stroke-width="7"/>
+  <path d="M240 587c27 31 57 47 81 47 29 0 61-18 90-53l44 43-65 176H250l-60-170z" fill="#f4f0e7"/>
+  <circle cx="125" cy="165" r="8" fill="#bd7184" opacity=".7"/>
+  <circle cx="516" cy="226" r="6" fill="#bd7184" opacity=".55"/>
+</svg>

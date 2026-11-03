@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title">
+  <title id="title">Study planner website preview illustration</title>
+  <rect width="960" height="600" fill="#e7e8e3"/>
+  <rect x="62" y="54" width="836" height="492" rx="16" fill="#fbfaf5"/>
+  <rect x="62" y="54" width="836" height="48" rx="16" fill="#f1efe7"/>
+  <circle cx="91" cy="78" r="6" fill="#d99ba8"/>
+  <circle cx="113" cy="78" r="6" fill="#d7bd7a"/>
+  <circle cx="135" cy="78" r="6" fill="#8b9a7d"/>
+  <text x="112" y="155" fill="#343a60" font-family="Georgia,serif" font-size="28">A gentler kind of plan</text>
+  <text x="112" y="184" fill="#706d63" font-family="Arial,sans-serif" font-size="14">Make room for focus, and for rest.</text>
+  <rect x="112" y="220" width="290" height="246" rx="12" fill="#f3f0e8" stroke="#dedbd1"/>
+  <text x="137" y="253" fill="#343a60" font-family="Arial,sans-serif" font-size="15">This week</text>
+  <path d="M137 278h240M137 323h240M137 368h240M137 413h240" stroke="#d9d5cb"/>
+  <text x="137" y="307" fill="#57544c" font-family="Arial,sans-serif" font-size="12">Mon</text>
+  <text x="137" y="352" fill="#57544c" font-family="Arial,sans-serif" font-size="12">Tue</text>
+  <text x="137" y="397" fill="#57544c" font-family="Arial,sans-serif" font-size="12">Wed</text>
+  <rect x="201" y="287" width="142" height="22" rx="6" fill="#d8b9bd"/>
+  <rect x="201" y="332" width="102" height="22" rx="6" fill="#d8d3b5"/>
+  <rect x="201" y="377" width="162" height="22" rx="6" fill="#c6d0bd"/>
+  <rect x="466" y="220" width="350" height="108" rx="12" fill="#ece7df"/>
+  <circle cx="516" cy="273" r="28" fill="#d7a0ad"/>
+  <path d="M516 257v17l12 8" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+  <text x="562" y="268" fill="#343a60" font-family="Georgia,serif" font-size="19">A small step counts.</text>
+  <text x="562" y="294" fill="#706d63" font-family="Arial,sans-serif" font-size="13">Remember to take a pause.</text>
+  <rect x="466" y="350" width="350" height="116" rx="12" fill="#f4f2ec" stroke="#dedbd1"/>
+  <text x="491" y="384" fill="#343a60" font-family="Arial,sans-serif" font-size="13">TODAY'S FOCUS</text>
+  <path d="M491 411h249" stroke="#d8d5ca" stroke-width="8" stroke-linecap="round"/>
+  <path d="M491 411h147" stroke="#87957e" stroke-width="8" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title">
+  <title id="title">Personal reading journal website preview illustration</title>
+  <rect width="960" height="600" fill="#e8e2dc"/>
+  <rect x="62" y="54" width="836" height="492" rx="16" fill="#fbfaf5"/>
+  <rect x="62" y="54" width="836" height="48" rx="16" fill="#f1efe7"/>
+  <circle cx="91" cy="78" r="6" fill="#d99ba8"/>
+  <circle cx="113" cy="78" r="6" fill="#d7bd7a"/>
+  <circle cx="135" cy="78" r="6" fill="#8b9a7d"/>
+  <text x="112" y="158" fill="#343a60" font-family="Georgia,serif" font-size="28">A shelf for small thoughts</text>
+  <text x="112" y="188" fill="#706d63" font-family="Arial,sans-serif" font-size="14">Books read, pages remembered.</text>
+  <rect x="114" y="225" width="185" height="242" rx="8" fill="#d6b2a0"/>
+  <rect x="128" y="239" width="157" height="214" rx="4" fill="#e9d5c7"/>
+  <path d="M154 286h108M154 309h81" stroke="#b48d7a" stroke-linecap="round" stroke-width="5"/>
+  <path d="M184 345c19-25 35-25 53 0-18 24-34 24-53 0z" fill="#83917b"/>
+  <text x="152" y="410" fill="#514d45" font-family="Georgia,serif" font-size="15">quiet pages</text>
+  <rect x="326" y="225" width="185" height="242" rx="8" fill="#737c69"/>
+  <rect x="340" y="239" width="157" height="214" rx="4" fill="#929982"/>
+  <circle cx="418" cy="310" r="34" fill="#d7bd7a"/>
+  <path d="M381 379c22-45 56-45 78 0" fill="none" stroke="#e9e4d9" stroke-width="8"/>
+  <text x="363" y="420" fill="#fff" font-family="Georgia,serif" font-size="15">slow mornings</text>
+  <rect x="544" y="225" width="185" height="242" rx="8" fill="#343a60"/>
+  <rect x="558" y="239" width="157" height="214" rx="4" fill="#515677"/>
+  <path d="M581 295h110M581 318h92M581 341h105" stroke="#d9d5ca" stroke-linecap="round" stroke-width="5"/>
+  <circle cx="636" cy="393" r="20" fill="#d7a0ad"/>
+  <text x="592" y="435" fill="#fff" font-family="Georgia,serif" font-size="14">field notes</text>
+  <rect x="758" y="225" width="92" height="242" rx="8" fill="#d8d3b5"/>
+  <path d="M778 271h52M778 292h52M778 313h38M778 367h52M778 388h45" stroke="#918c73" stroke-linecap="round" stroke-width="5"/>
+  <path d="M778 426h52" stroke="#bd7184" stroke-linecap="round" stroke-width="5"/>
+</svg>

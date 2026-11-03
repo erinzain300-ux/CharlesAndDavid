@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title">
+  <title id="title">Neighborhood garden website preview illustration</title>
+  <rect width="960" height="600" fill="#e8e8dc"/>
+  <rect x="62" y="54" width="836" height="492" rx="16" fill="#fbfaf5"/>
+  <rect x="62" y="54" width="836" height="48" rx="16" fill="#f1efe7"/>
+  <circle cx="91" cy="78" r="6" fill="#d99ba8"/>
+  <circle cx="113" cy="78" r="6" fill="#d7bd7a"/>
+  <circle cx="135" cy="78" r="6" fill="#8b9a7d"/>
+  <text x="118" y="157" fill="#343a60" font-family="Georgia,serif" font-size="30">A garden grows here</text>
+  <text x="118" y="190" fill="#706d63" font-family="Arial,sans-serif" font-size="15">A little space for neighbors and nature.</text>
+  <rect x="118" y="218" width="172" height="39" rx="7" fill="#343a60"/>
+  <text x="141" y="243" fill="#fff" font-family="Arial,sans-serif" font-size="13">See what's growing</text>
+  <path d="M505 445c13-132 98-199 194-172 93 25 123 111 120 172z" fill="#9aa68d"/>
+  <path d="M568 445c-15-80 23-122 67-120 37 3 58 43 54 120m30 0c-4-104 44-144 86-131 43 13 61 63 55 131" fill="none" stroke="#657861" stroke-width="16"/>
+  <path d="M485 446h343" stroke="#bd8c68" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="600" cy="287" r="19" fill="#d7a0ad"/>
+  <circle cx="762" cy="261" r="17" fill="#d7bd7a"/>
+  <path d="M116 322h256M116 354h213M116 386h240" stroke="#d8d5ca" stroke-linecap="round" stroke-width="8"/>
+</svg>
